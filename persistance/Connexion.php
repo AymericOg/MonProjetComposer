@@ -9,7 +9,7 @@ class Connexion {
     public static function getConnexion() {
         
         $dbhost = '127.0.0.1';
-        $dbbase = 'agenda';
+        $dbbase = 'mangas';
         $dbuser = 'usersio';
         $dbpwd = 'sio';
             
